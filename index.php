@@ -17,7 +17,7 @@
 		<div class="collapse navbar-collapse" id="navbarSupportedContent">
 			<ul class="navbar-nav ml-auto pr-5">
 				<li class="nav-item">
-					<a class="nav-link" href="indiaStates.php">India State</a>
+					<a class="nav-link" href="indiastates.php">India State</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#about">About</a>
